@@ -13,4 +13,6 @@ Permissions:
 You can Download the Plugin at https://431Networks.de/FSign/
 
 This plugin is licensed under CC-BY 4.0, which means you can further develop this plugin or use the code in your projects. You must give credit to the creator if you use this plugin for commercial purposes.
+For more information about CC-BY 4.0 visit https://creativecommons.org/licenses/by/4.0/
+
 FSign © 2024 by Freestyler431 is licensed under CC-BY 4.0
