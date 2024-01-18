@@ -1,0 +1,7 @@
+name: FSign
+version: 1.1.5R
+main: de.signitem.signature.main.Signature
+author: Freestyler431
+api-version: "1.13"
+commands:
+  sign:
